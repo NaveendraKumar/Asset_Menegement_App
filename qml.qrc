@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Firstscreen.qml</file>
+        <file>EmployeeRegisterpage.qml</file>
+        <file>AuthorityLoginpage.qml</file>
+        <file>AuthorityRegistrationpage.qml</file>
+        <file>AuthorityServicepage.qml</file>
+        <file>AuthorityAssetsProvidePage.qml</file>
+        <file>LaptopAssetsPage.qml</file>
+        <file>LaptopBagAssetsPage.qml</file>
+        <file>OtherAccessoriesAssetsPage.qml</file>
+        <file>AuthorityDisplayEmployeeDeatailsPage.qml</file>
+        <file>UpdateAssetsDeatails.qml</file>
+        <file>UpdateLaptopAssetDeatails.qml</file>
+        <file>UpdateBagAssetDeatails.qml</file>
+        <file>UpdateOtherAssetDeatails.qml</file>
+        <file>UpdateEmployeeProfile.qml</file>
+        <file>ApplicationImages/icons/icon.png</file>
+        <file>ApplicationImages/icons/profile.png</file>
+        <file>ApplicationImages/backgroundimg/updateemp.jpeg</file>
+        <file>ApplicationImages/icons/profile update.png</file>
+        <file>ApplicationImages/icons/userid.png</file>
+        <file>ApplicationImages/icons/password.png</file>
+        <file>ApplicationImages/icons/username.png</file>
+        <file>ApplicationImages/icons/bag.png</file>
+        <file>ApplicationImages/backgroundimg/updateassetsbg.jpeg</file>
+        <file>ApplicationImages/icons/lapicon.png</file>
+        <file>ApplicationImages/icons/otherassetsicon.png</file>
+        <file>ApplicationImages/backgroundimg/lapassetsbg.jpeg</file>
+        <file>ApplicationImages/icons/email.png</file>
+        <file>ApplicationImages/icons/confirmpassword.png</file>
+        <file>ApplicationImages/icons/books.png</file>
+        <file>ApplicationImages/icons/employee.png</file>
+        <file>ApplicationImages/icons/Authority.png</file>
+        <file>ApplicationImages/icons/calender.png</file>
+        <file>ApplicationImages/icons/laptopdamage.png</file>
+        <file>TxtField.qml</file>
+        <file>ApplicationImages/icons/previous.png</file>
+        <file>ApplicationImages/icons/viewAllemployeeicon.png</file>
+        <file>ApplicationImages/icons/gallery.png</file>
+        <file>BooksAssetsPage.qml</file>
+        <file>UpdateBookAssetsPage.qml</file>
+        <file>ApplicationImages/icons/Pthinks.png</file>
+        <file>ViewAllEmployeesList.qml</file>
+        <file>ViewEmployeeDeatails.qml</file>
+    </qresource>
+</RCC>
